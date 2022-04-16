@@ -1,6 +1,5 @@
 # An Online Shop
-An eCommerce website with payment processing.
-
+An eCommerce website that has a working cart and checkout, with the ability to register and login users with authentication features, display items for sale, and take real payment from users. 
 ## Languages Implemented
 - HTML
 - CSS
